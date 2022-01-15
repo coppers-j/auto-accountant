@@ -1,0 +1,7 @@
+piecash
+pandas
+numpy
+dash
+plotly
+matplotlib
+requests
